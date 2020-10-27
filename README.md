@@ -25,10 +25,10 @@ To run you will need git pkg and virtualenv python library
 ```
 $ sudo apt-get install git
 ```
-2. Installing Python virtualenv lib
+2. Installing Python virtualenv lib:
 
 ```
-$ pip3 install virtualenv:
+$ pip3 install virtualenv
 ```
 
 ## Setup
