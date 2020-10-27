@@ -73,7 +73,7 @@ To see the output file content, type on your terminal:
 $ cat -n output/abandoned_carts-00000-of-00001.json
 ```
 
-## Referecences
+## References
 
 * [Ubuntu](https://ubuntu.com/)
 * [Python 3](https://www.python.org/about/)
