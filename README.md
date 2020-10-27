@@ -20,7 +20,7 @@ Apache Beam Version: 2.25.0
 
 To run you will need git pkg and virtualenv python library
 
-1. Installing git via apt
+1. Installing git via apt:
 
 ```
 $ sudo apt-get install git
@@ -28,7 +28,7 @@ $ sudo apt-get install git
 2. Installing Python virtualenv lib
 
 ```
-$ pip3 install virtualenv
+$ pip3 install virtualenv:
 ```
 
 ## Setup
@@ -41,12 +41,12 @@ Open your terminal and follow the steps:
 $ git clone https://github.com/JnsFerreira/b2w_challange.git
 ```
 
-2. Change to repo directory
+2. Change to repo directory:
 ```
 $ cd b2w_challange
 ```
 
-3. Activate the virtual enviroment
+3. Activate the virtual enviroment:
 ```
 $ source b2w_challange_env/bin/activate
 ```
